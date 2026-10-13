@@ -2,7 +2,7 @@
 
 源码：noahbenjamin1994/ghtrends-radar，MIT 许可。安装时上游提交：`cbd9ad0fd4cf66aff67e0888a6e61aa369164882`。
 
-你的 Fork：https://github.com/ding18363123855-stack/ghtrends-radar 。本机 origin 已指向该仓库，upstream 保留原作者地址。
+你的 Fork：https://github.com/papaoo/ghtrends-radar 。本机 origin 已指向该仓库，upstream 保留原作者地址。
 
 - 入口：http://127.0.0.1:3721/?lang=zh
 - 启动：在项目目录运行 `powershell -File scripts/start-local.ps1`
